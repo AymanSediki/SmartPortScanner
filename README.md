@@ -14,14 +14,9 @@ Multithreaded scanning for high performance.
 
 📄 Output
 After the scan:
-
 A file named scan_report.html is generated in the current directory.
-
 Example output in terminal:
 
-kotlin
-Copier
-Modifier
 Enter IP address to scan: 192.168.1.1
 Port 80 is open. Banner: HTTP/1.1 200 OK
 Port 22 is open. Banner: SSH-2.0-OpenSSH_8.4
